@@ -1,4 +1,5 @@
-### Hi there 👋
+### PROFILE MOVED
+https://github.com/JSH32
 
 <!--
 **Riku32/Riku32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
